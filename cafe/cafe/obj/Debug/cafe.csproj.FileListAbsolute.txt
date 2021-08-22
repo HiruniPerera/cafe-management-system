@@ -1,0 +1,10 @@
+E:\c#pr\cafe\cafe\bin\Debug\cafe.exe.config
+E:\c#pr\cafe\cafe\bin\Debug\cafe.exe
+E:\c#pr\cafe\cafe\bin\Debug\cafe.pdb
+E:\c#pr\cafe\cafe\obj\Debug\cafe.csprojAssemblyReference.cache
+E:\c#pr\cafe\cafe\obj\Debug\cafe.Form1.resources
+E:\c#pr\cafe\cafe\obj\Debug\cafe.Properties.Resources.resources
+E:\c#pr\cafe\cafe\obj\Debug\cafe.csproj.GenerateResource.cache
+E:\c#pr\cafe\cafe\obj\Debug\cafe.csproj.CoreCompileInputs.cache
+E:\c#pr\cafe\cafe\obj\Debug\cafe.exe
+E:\c#pr\cafe\cafe\obj\Debug\cafe.pdb
