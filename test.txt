@@ -1,1 +1,1 @@
-cfftfyt
+A simple solution developed in C# using encapsulation concept for billing in a cafe
